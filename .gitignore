@@ -1,0 +1,7 @@
+.env
+venv/
+.venv/
+uploads/
+__pycache__/
+*.pyc
+.git_backup/
